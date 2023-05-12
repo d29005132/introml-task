@@ -1,8 +1,9 @@
 # introml-task
 classification task with xgboost
 
-## In this classification task, students experience to handle categorical classifications with only numerical features.
+##introdution 👍👍
+In this classification task, students experience to handle categorical classifications with only numerical features.
 
-imbalanced training data
-noisy features
-missing values
+1.imbalanced training data 📚
+2.noisy features 🤹
+3.missing values 🙅‍♂️
